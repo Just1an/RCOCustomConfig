@@ -13,7 +13,7 @@
   "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagDisableNewIGMinDUA": true,
-  "FFlagEnableInGameMenuV3": false,
+  "FFlagEnableInGameMenuV3": true,
   "FFlagPreloadAllFonts": true,
   "FFlagPreloadTextureItemsOption4": true,
   "FFlagBatchAssetApi": true,
